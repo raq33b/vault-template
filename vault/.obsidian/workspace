@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "29d01067ec1961ea",
+        "id": "3411d1c4ee790672",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -112,6 +112,14 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "cbe4f880ea18fe07",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
           }
         ]
       }
@@ -120,6 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29d01067ec1961ea",
-  "lastOpenFiles": []
+  "active": "3411d1c4ee790672",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "This is a backlink.md",
+    "projects/projects.md",
+    "projects/Product Management.md",
+    "areas/Sports Science.md",
+    "bin/templates/new note.md",
+    "projects/Product Management.md",
+    "bin/templates/new source note.md",
+    "bin/templates/new project note.md",
+    "bin/templates/new areas note.md"
+  ]
 }

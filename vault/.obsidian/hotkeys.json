@@ -40,14 +40,7 @@
     }
   ],
   "templater-obsidian:create-new-note-from-template": [],
-  "templater-obsidian:replace-in-file-templater": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
+  "templater-obsidian:replace-in-file-templater": [],
   "editor:open-link-in-new-leaf": [
     {
       "modifiers": [
@@ -80,5 +73,29 @@
       "key": "N"
     }
   ],
-  "templater-obsidian:insert-templater": []
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "templater-obsidian:bin/templates/new note.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-better-command-palette:open-better-commmand-palette-file-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
 }

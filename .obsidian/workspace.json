@@ -1,23 +1,18 @@
 {
   "main": {
-    "id": "2ffee5e85b426c89",
+    "id": "02b3c25104e4c6a5",
     "type": "split",
     "children": [
       {
-        "id": "59084b8d6edd25af",
+        "id": "3504b8cba7851195",
         "type": "tabs",
         "children": [
           {
-            "id": "d628ab88a9f4a743",
+            "id": "3d8e73083df8f348",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Tweet from MejaKayu (2022-10-29 05-13-18).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -26,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9d449a0382ed586c",
+    "id": "47c0d0a9699bd459",
     "type": "split",
     "children": [
       {
-        "id": "e1c6a1fa8a203fdc",
+        "id": "234834fdde960af8",
         "type": "tabs",
         "children": [
           {
-            "id": "1004da06164859e3",
+            "id": "e6ed0f9b7589de88",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +39,7 @@
             }
           },
           {
-            "id": "3d1f47b0ca9b16d7",
+            "id": "5ad92c69a5ffa02b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +54,7 @@
             }
           },
           {
-            "id": "cde5e61f8a68db00",
+            "id": "ff1cef4785a2d1dd",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -70,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "7496b67f21e2e34b",
+    "id": "47ce922c9611c496",
     "type": "split",
     "children": [
       {
-        "id": "6a5d134b84e18974",
+        "id": "d3e1c40754c38093",
         "type": "tabs",
         "children": [
           {
-            "id": "76fbae9f068a4d3f",
+            "id": "70d5fe7dd368bafc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Tweet from MejaKayu (2022-10-29 05-13-18).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +92,18 @@
             }
           },
           {
-            "id": "95e61a76da153b40",
+            "id": "5bba224e7bfedb03",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Tweet from MejaKayu (2022-10-29 05-13-18).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e34073e64c88e9f6",
+            "id": "b6251289bcb8ed7b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,41 +114,20 @@
             }
           },
           {
-            "id": "2027d3651e936eda",
+            "id": "fc8299990cd4680a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/Tweet from MejaKayu (2022-10-29 05-13-18).md"
-              }
-            }
-          },
-          {
-            "id": "2a069563e07b35fb",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d628ab88a9f4a743",
-  "lastOpenFiles": [
-    "inbox/What is the Product Manager Career Path.md",
-    "inbox/inbox.md",
-    "projects/Product Management.md",
-    "projects/projects.md",
-    "areas/areas.md",
-    "archive/archive.md",
-    "archive/Evergreen Notes.md",
-    "index.md",
-    "this is a backlink.md",
-    "This is a backlink.md"
-  ]
+  "active": "3d8e73083df8f348",
+  "lastOpenFiles": []
 }

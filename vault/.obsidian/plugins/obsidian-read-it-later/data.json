@@ -1,7 +1,7 @@
 {
   "inboxDir": "inbox",
   "assetsDir": "bin/images",
-  "openNewNote": false,
+  "openNewNote": true,
   "youtubeNoteTitle": "Youtube - %title%",
   "youtubeNote": "[[webmark]] [[Youtube]]\n\n# [%videoTitle%](%videoURL%)\n\n%videoPlayer%",
   "bilibiliNoteTitle": "Bilibili - %title%",
