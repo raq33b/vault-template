@@ -29,7 +29,7 @@ audio_format_suffixes:
   - wav
   - mp3
 site_name: Wiki
-html_url_prefix: 'vault_publish'
+html_url_prefix: ''
 html_custom_inclusions: []
 navbar_links: []
 toggles:

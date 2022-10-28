@@ -1,11 +1,11 @@
 # Config
-git_output="/home/igloo/example_vault/output"
-obsidian_folder="/home/igloo/example_vault/vault"
-root_folder="/home/igloo/example_vault/"
+git_output="/Users/MohammedRaqeeb/Desktop/wiki/output"
+obsidian_folder="/Users/MohammedRaqeeb/Desktop/wiki/vault"
+root_folder="/Users/MohammedRaqeeb/Desktop/wiki"
 
 # Move to output folder and make sure it is up to date
 cd $git_output
-git pull --recurse-submodules
+git pull 
 
 # Remove all files except .git/ and README.md
 echo "Will delete previous output:"
