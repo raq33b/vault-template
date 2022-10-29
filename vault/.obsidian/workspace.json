@@ -151,15 +151,23 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "6362fc8c9208db8d",
+            "type": "leaf",
+            "state": {
+              "type": "example-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "512a5947a9294de4",
+  "active": "6362fc8c9208db8d",
   "lastOpenFiles": [
     "projects/projects.md",
     "sources/sources.md",
