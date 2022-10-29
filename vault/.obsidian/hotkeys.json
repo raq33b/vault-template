@@ -123,5 +123,14 @@
       ],
       "key": "["
     }
+  ],
+  "obsidian-wikipedia:wikipedia-get-active-note-title": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
   ]
 }

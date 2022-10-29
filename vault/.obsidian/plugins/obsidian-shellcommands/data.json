@@ -65,14 +65,7 @@
         "stderr": null
       },
       "output_channel_order": "stdout-first",
-      "events": {
-        "on-layout-ready": {
-          "enabled": true
-        },
-        "on-quit": {
-          "enabled": true
-        }
-      },
+      "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
       "variable_default_values": {}

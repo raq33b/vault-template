@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59084b8d6edd25af",
+        "id": "9cff389e0d3b9fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "d628ab88a9f4a743",
+            "id": "a57c61f67c5102c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/a new resource type note.md",
+                "file": "areas/Metrics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "512a5947a9294de4",
+            "id": "b4412f31c9031322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Product Management.md",
+                "file": "archive/KPI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05fecba29196d0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "areas/Behavioural Psychology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1453f4eba4b7fd2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "areas/Behavioural Psychology.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Product Management.md",
+                "file": "areas/Behavioural Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Product Management.md",
+                "file": "areas/Behavioural Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Product Management.md"
+                "file": "areas/Behavioural Psychology.md"
               }
             }
           },
@@ -153,7 +179,7 @@
             }
           },
           {
-            "id": "6362fc8c9208db8d",
+            "id": "3977229734c4d4db",
             "type": "leaf",
             "state": {
               "type": "example-view",
@@ -161,23 +187,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6362fc8c9208db8d",
+  "active": "1453f4eba4b7fd2b",
   "lastOpenFiles": [
-    "projects/projects.md",
-    "sources/sources.md",
-    "projects/Product Management.md",
-    "Git Help.md",
-    "sources/a new resource type note.md",
-    "index.md",
-    "Markdown Cheat Sheet  Markdown Guide.md",
-    "NewNote.md",
-    "inbox/inbox.md",
-    "bin/templates/new note.md"
+    "archive/Product Management Interview Questions.md",
+    "archive/KPI.md",
+    "areas/Metrics.md",
+    "projects/Technical Skills.md",
+    "areas/UX.md",
+    "archive/The Map is Not the Territory.md",
+    "archive/Straw man.md",
+    "areas/Logical Fallacies.md",
+    "areas/Mental Models.md",
+    "areas/Agile Methodology.md"
   ]
 }
