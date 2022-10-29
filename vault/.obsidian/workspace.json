@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Help.md",
+                "file": "projects/Product Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Help.md",
+                "file": "projects/Product Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Help.md",
+                "file": "projects/Product Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Help.md"
+                "file": "projects/Product Management.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "512a5947a9294de4",
   "lastOpenFiles": [
+    "projects/projects.md",
+    "sources/sources.md",
+    "projects/Product Management.md",
+    "Git Help.md",
+    "sources/a new resource type note.md",
     "index.md",
     "Markdown Cheat Sheet  Markdown Guide.md",
     "NewNote.md",
-    "Git Help.md",
     "inbox/inbox.md",
-    "bin/templates/new note.md",
-    "inbox/Markdown Cheat Sheet  Markdown Guide 1.md",
-    "transclusion.md",
-    "sources/sources.md",
-    "sources/a new resource type note.md"
+    "bin/templates/new note.md"
   ]
 }

@@ -15,7 +15,7 @@
   "anuppuccin-theme-settings@@anp-callout-normal-toggle": true,
   "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
   "anuppuccin-theme-settings@@anp-callout-fold-position": true,
-  "anuppuccin-theme-settings@@anp-editor-font-toggle": false,
+  "anuppuccin-theme-settings@@anp-editor-font-toggle": true,
   "anuppuccin-theme-settings@@anp-toggle-preview": true,
   "anuppuccin-theme-settings@@anp-header-toggle": true,
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,

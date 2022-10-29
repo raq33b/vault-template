@@ -9,15 +9,6 @@ git pull
 
 # Remove all files except .git/ and README.md
 echo "Will delete previous output:"
-find . ! -path "./.git/*" ! -name ".git" ! -name README.md
-echo "Continue? (y/n)"
-read yn
-
-if [ "$yn" != "y" ]; then
-    echo "Aborted"
-    exit 0
-fi
-
 find . ! -path "./.git/*" ! -name ".git" ! -name README.md -delete
 
 

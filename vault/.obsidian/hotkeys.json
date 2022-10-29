@@ -115,5 +115,13 @@
       ],
       "key": "]"
     }
+  ],
+  "obsidian-shellcommands:shell-command-ebq6fzyjo4": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    }
   ]
 }
