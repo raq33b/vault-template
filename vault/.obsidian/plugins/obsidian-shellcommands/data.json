@@ -16,9 +16,9 @@
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
-      "id": "mb3kcv5lb6",
+      "id": "idt20jk6qx",
       "platform_specific_commands": {
-        "default": "git-backup"
+        "default": "gitbackup"
       },
       "shells": {},
       "alias": "",
