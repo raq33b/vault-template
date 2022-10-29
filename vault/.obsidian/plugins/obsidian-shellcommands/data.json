@@ -9,20 +9,20 @@
   "environment_variable_path_augmentations": {},
   "error_message_duration": 20,
   "notification_message_duration": 10,
-  "execution_notification_mode": "disabled",
+  "execution_notification_mode": "if-long",
   "output_channel_clipboard_also_outputs_to_notification": true,
   "enable_events": true,
   "approve_modals_by_pressing_enter_key": true,
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
-      "id": "idt20jk6qx",
+      "id": "5iel6vsy4o",
       "platform_specific_commands": {
-        "default": "gitbackup"
+        "default": "git add -A && git commit -m \"backup $(date +%F)\" && git push"
       },
       "shells": {},
       "alias": "",
-      "icon": null,
+      "icon": "activity",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "output_channels": {
@@ -42,5 +42,11 @@
   ],
   "prompts": [],
   "custom_variables": [],
-  "output_wrappers": []
+  "output_wrappers": [
+    {
+      "id": "8ab6qvb85q",
+      "title": "Backup result:",
+      "content": "{{output}}"
+    }
+  ]
 }

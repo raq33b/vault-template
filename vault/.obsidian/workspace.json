@@ -26,19 +26,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/inbox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83298806484342d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Git Help.md",
                 "mode": "source",
                 "backlinks": true,
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,17 +159,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "83298806484342d9",
+  "active": "512a5947a9294de4",
   "lastOpenFiles": [
-    "bin/templates/new note.md",
-    "Markdown Cheat Sheet  Markdown Guide.md",
-    "Git Help.md",
-    "inbox/Markdown Cheat Sheet  Markdown Guide 1.md",
-    "inbox/inbox.md",
     "index.md",
+    "Markdown Cheat Sheet  Markdown Guide.md",
+    "NewNote.md",
+    "Git Help.md",
+    "inbox/inbox.md",
+    "bin/templates/new note.md",
+    "inbox/Markdown Cheat Sheet  Markdown Guide 1.md",
     "transclusion.md",
     "sources/sources.md",
-    "sources/a new resource type note.md",
-    "projects/projects.md"
+    "sources/a new resource type note.md"
   ]
 }
