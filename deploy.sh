@@ -38,6 +38,9 @@ cd $git_output
 #mv html/* ./
 rm -rf html/
 
+git init 
 git add . --all
+git branch -M main
 git commit -m "autopush"
-git push -f
+git remote add origin https://github.com/raq33b/raq33b.github.io.git
+git push -uf origin main

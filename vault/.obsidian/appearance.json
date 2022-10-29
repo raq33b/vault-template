@@ -1,9 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
-  "enabledCssSnippets": [
-    "extended-colorschemes"
-  ],
+  "cssTheme": "",
+  "enabledCssSnippets": [],
   "nativeMenus": true,
-  "translucency": true
+  "translucency": false
 }
