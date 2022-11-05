@@ -36,7 +36,6 @@ I installed some quality of life plugins(community).
 - [obsidian-folder-note-plugin](https://github.com/xpgo/obsidian-folder-note-plugin) - Plugin to add description note to a folder for Obsidian.                
 - [obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian. Part of the Obsidian42 family of plugins.
 - [obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) -  Discover the connections of thought in your Obsidian vault
-- [QuickAdd for Obsidian](https://github.com/chhoumann/quickadd) - Quickly add new pages or content to your vault
 - [obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) - is a simple plugin for Obsidian to collect interesting information from your clipboard into your vault       
 - [Obsidian-Table-Generator](https://github.com/quorafind/obsidian-table-generator) - A plugin for generate markdown table quickly like Typora                                                                                                                                                                                      
 

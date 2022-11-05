@@ -4,6 +4,11 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
+      "folder": "inbox",
+      "tag": "#inbox",
+      "pattern": ""
+    },
+    {
       "folder": "archive",
       "tag": "#archive",
       "pattern": ""
@@ -14,13 +19,43 @@
       "pattern": ""
     },
     {
-      "folder": "sources",
-      "tag": "#sources",
+      "folder": "projects",
+      "tag": "#projects",
       "pattern": ""
     },
     {
-      "folder": "projects",
-      "tag": "#projects",
+      "folder": "sources/articles",
+      "tag": "#articles",
+      "pattern": ""
+    },
+    {
+      "folder": "sources/podcasts",
+      "tag": "#podcasts",
+      "pattern": ""
+    },
+    {
+      "folder": "sources/videos",
+      "tag": "#videos",
+      "pattern": ""
+    },
+    {
+      "folder": "sources/books",
+      "tag": "#books",
+      "pattern": ""
+    },
+    {
+      "folder": "sources/documents",
+      "tag": "#documents",
+      "pattern": ""
+    },
+    {
+      "folder": "sources/tweets",
+      "tag": "#tweets",
+      "pattern": ""
+    },
+    {
+      "folder": "sources",
+      "tag": "#sources",
       "pattern": ""
     }
   ],

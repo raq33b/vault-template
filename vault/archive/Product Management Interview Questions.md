@@ -13,7 +13,7 @@ updated: 2022-10-29T20:41:10.237Z
 - Tell me about a time when you dealt with a technical challenge - work with engg teams [[Technical Skills]]
 - How do you measure success about Facebook events ([[Metrics]])
 - Behavioral interview questions ([[Behavioural Psychology]])
-- Product design or product sense - redesign product to improve UX
+- [[Product design]] or product sense - redesign product to improve [[UX]] - 
 - Favorite product question
 
 ## Resources

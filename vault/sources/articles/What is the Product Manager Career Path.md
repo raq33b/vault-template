@@ -1,4 +1,9 @@
-[[webmark]] #articles
+---
+title: What is the Product Manager Career Path?
+created: 2022-11-05
+tags:
+  - articles
+---
 
 # [What is the Product Manager Career Path?](https://www.productplan.com/learn/product-manager-career-path/)
 
@@ -25,7 +30,7 @@ Good news, product management positions have only increased in demand in the las
 
 Some product organizations have associate and senior product managers. At the same time, others have only a single role with diversified levels of responsibility. Product managers in more extensive enterprise settings can even operate under titles that don’t distinctly list out “product manager” in it.
 
-Titles like the delivery manager, program manager, or project manager are used instead of the product manager?. This happens despite what that individual does in the day-to-day is, in fact, the work of a PM.
+Titles like the delivery manager, program manager, or project manager are used instead of the product manager. This happens despite what that individual does in the day-to-day is, in fact, the work of a PM.
 
 Factors like company size, budget, and business goals have an impact on how product team structure.
 

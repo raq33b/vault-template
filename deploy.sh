@@ -33,5 +33,7 @@ git init
 git add . --all
 git branch -M main
 git commit -m "autopush"
+launchctl stop /System/Library/LaunchAgents/org.openbsd.ssh-agent
+launchctl start /System/Library/LaunchAgents/org.openbsd.ssh-agent
 git remote add origin https://github.com/raq33b/raq33b.github.io.git
 git push -uf origin main

@@ -4,55 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "9cff389e0d3b9fb4",
+        "id": "51a738fdd2428cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "a57c61f67c5102c9",
+            "id": "ae7744e974abd305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bin/templates/new book note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74e11bf59d11cd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bin/templates/new note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d220c6d7a374609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bin/templates/new generic note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ad26b95e2618d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "areas/Metrics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4412f31c9031322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive/KPI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05fecba29196d0bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "areas/Behavioural Psychology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1453f4eba4b7fd2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "areas/Behavioural Psychology.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/Behavioural Psychology.md",
+                "file": "areas/Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/Behavioural Psychology.md",
+                "file": "areas/Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/Behavioural Psychology.md"
+                "file": "areas/Metrics.md"
               }
             }
           },
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1453f4eba4b7fd2b",
+  "active": "1004da06164859e3",
   "lastOpenFiles": [
-    "archive/Product Management Interview Questions.md",
-    "archive/KPI.md",
-    "areas/Metrics.md",
-    "projects/Technical Skills.md",
-    "areas/UX.md",
-    "archive/The Map is Not the Territory.md",
-    "archive/Straw man.md",
-    "areas/Logical Fallacies.md",
     "areas/Mental Models.md",
-    "areas/Agile Methodology.md"
+    "areas/Behavioural Psychology.md",
+    "areas/Learning.md",
+    "areas/Values.md",
+    "bin/templates/new generic note.md",
+    "Thinking.md",
+    "areas/areas.md",
+    "bin/templates/new note.md",
+    "sources/books/books.md",
+    "sources/books/Product Management in Practice.md"
   ]
 }

@@ -38,7 +38,6 @@ Businesses use this technique early in a project to see if the amount a client�
 
 **Disadvantages**: Not accurate at all. You’re allocating the budget based on guesses. This estimating method also doesn’t account for possible changes in the project and its budget.
 
-[![](https://www.freshbooks.com/wp-content/uploads/Estimates_2@2x-1280x258.png)](https://www.freshbooks.com/signup)
 
 ## 2\. Bottom-Up Estimation
 
@@ -95,8 +94,6 @@ You can adjust the formula to weight different scenarios, as well.
 **Advantages**: Delivers a more accurate estimate as it allows for unexpected problems in the project, which reduces your risk as a small company.
 
 **Disadvantages**: Takes more time and is a more complicated technique to learn.
-
-[![](https://www.freshbooks.com/wp-content/uploads/Estimates_4@2x-1280x258.png)](https://www.freshbooks.com/signup)
 
 **People also ask:**
 

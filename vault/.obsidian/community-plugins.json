@@ -2,7 +2,6 @@
   "templater-obsidian",
   "folder-note-plugin",
   "obsidian-read-it-later",
-  "quickadd",
   "table-editor-obsidian",
   "obsidian-table-generator",
   "auto-note-mover",
@@ -17,5 +16,7 @@
   "obsidian-habitica-integration",
   "obsidian-reveal-active-file",
   "obsidian-completr",
-  "obsidian-wikipedia"
+  "obsidian-wikipedia",
+  "dataview",
+  "obsidian-hypothesis-plugin"
 ]

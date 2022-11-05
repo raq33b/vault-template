@@ -17,3 +17,8 @@ updated: 2022-10-29T00:17:38.177Z
 ## Update: 
 
 Using the [GitHub - Taitava/obsidian-shellcommands: Execute system commands via hotkeys or command palette in Obsidian (https://obsidian.md). Some automated events are also supported, and execution via URI links.](https://github.com/Taitava/obsidian-shellcommands)
+
+## Deployment
+
+- `cd Desktop/wiki`
+- `bash deploy.sh`

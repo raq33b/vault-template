@@ -7,7 +7,7 @@ created: 2022-10-29T21:08:41.183Z
 updated: 2022-10-29T21:08:41.183Z
 ---
 
- - Areas: [[Thinking]]
+ - Areas: [[areas/Thinking]]
 
 ---
 
