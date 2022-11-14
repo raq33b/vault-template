@@ -1,5 +1,5 @@
 ---
-title: What is the Product Manager Career Path?
+title: What is the Product Manager Career Path
 created: 2022-11-05
 tags:
   - articles

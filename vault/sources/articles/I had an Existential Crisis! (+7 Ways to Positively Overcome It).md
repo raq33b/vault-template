@@ -1,5 +1,5 @@
 ---
-title: I had an Existential Crisis! (+7 Ways to Positively Overcome It)
+title: I had an Existential Crisis 7 Ways to Positively Overcome It
 tags:
   - hypothesis
   - sources

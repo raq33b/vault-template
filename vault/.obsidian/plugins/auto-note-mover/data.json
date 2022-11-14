@@ -4,11 +4,6 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "inbox",
-      "tag": "#inbox",
-      "pattern": ""
-    },
-    {
       "folder": "archive",
       "tag": "#archive",
       "pattern": ""
@@ -56,6 +51,11 @@
     {
       "folder": "sources",
       "tag": "#sources",
+      "pattern": ""
+    },
+    {
+      "folder": "inbox",
+      "tag": "#inbox",
       "pattern": ""
     }
   ],

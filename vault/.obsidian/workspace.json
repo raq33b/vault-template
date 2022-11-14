@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/Metrics.md",
+                "file": "areas/Finances.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bba15c5b918e8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/Metrics.md",
+                "file": "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/Metrics.md",
+                "file": "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/Metrics.md"
+                "file": "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md"
               }
             }
           },
@@ -193,17 +206,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1004da06164859e3",
+  "active": "3bba15c5b918e8c8",
   "lastOpenFiles": [
-    "areas/Mental Models.md",
-    "areas/Behavioural Psychology.md",
-    "areas/Learning.md",
-    "areas/Values.md",
-    "bin/templates/new generic note.md",
+    "sources/videos/videos.md",
+    "areas/Finances.md",
+    "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
+    "sources/videos/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
     "Thinking.md",
-    "areas/areas.md",
-    "bin/templates/new note.md",
-    "sources/books/books.md",
-    "sources/books/Product Management in Practice.md"
+    "sources/a new resource type note.md",
+    "sources/articles/What is the Product Manager Career Path.md",
+    "sources/articles/The Three-Step Learning Model.md",
+    "sources/articles/The Curiosity Chronicle  The Three-Step Learning Model.md",
+    "sources/articles/I had an Existential Crisis! (+7 Ways to Positively Overcome It).md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: The Curiosity Chronicle | The Three-Step Learning Model
+title: The Curiosity Chronicle The Three-Step Learning Model
 tags:
   - hypothesis
   - sources

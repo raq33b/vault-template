@@ -10,6 +10,7 @@ exclude_subfolders:
   - .DS_Store
   - .git
   - bin
+  - bin/templates
 copy_vault_to_tempdir: true
 included_file_suffixes:
   - jpg
