@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
+                "file": "bin/templates/new book note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
+                "file": "bin/templates/new book note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md"
+                "file": "bin/templates/new book note.md"
               }
             }
           },
