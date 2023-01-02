@@ -1,6 +1,6 @@
 obsidian_folder_path_str: vault
 obsidian_entrypoint_path_str: vault/index.md
-html_output_folder_path_str: output/
+html_output_folder_path_str: output/html
 md_entrypoint_path_str: output/md/index.md
 md_folder_path_str: output/md
 log_output_folder_path_str: output/log

@@ -6,3 +6,5 @@ tags:
 created: 2022-11-05T15:26:19.595Z
 updated: 2022-11-05T15:26:26.967Z
 ---
+
+- Personal MBA
