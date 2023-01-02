@@ -1,5 +1,5 @@
 {
-  "settings_version": "0.17.0",
+  "settings_version": "0.16.0",
   "debug": false,
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
@@ -44,8 +44,7 @@
       },
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {},
-      "output_handling_mode": "buffered"
+      "variable_default_values": {}
     },
     {
       "id": "ebq6fzyjo4",
@@ -69,8 +68,7 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {},
-      "output_handling_mode": "buffered"
+      "variable_default_values": {}
     }
   ],
   "prompts": [],

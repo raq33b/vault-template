@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bin/templates/new book note.md",
+                "file": "sources/videos/videos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bin/templates/new book note.md",
+                "file": "sources/videos/videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bin/templates/new book note.md",
+                "file": "sources/videos/videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bin/templates/new book note.md"
+                "file": "sources/videos/videos.md"
               }
             }
           },
@@ -208,15 +207,15 @@
   },
   "active": "1004da06164859e3",
   "lastOpenFiles": [
+    "sources/tweets/Tweet from Tiago Forte (2022-11-05 19-53-57).md",
+    "bin/templates/new book note.md",
+    "bin/templates/new note.md",
+    "bin/templates/new generic note.md",
     "sources/videos/videos.md",
     "areas/Finances.md",
     "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
     "sources/videos/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
     "Thinking.md",
-    "sources/a new resource type note.md",
-    "sources/articles/What is the Product Manager Career Path.md",
-    "sources/articles/The Three-Step Learning Model.md",
-    "sources/articles/The Curiosity Chronicle  The Three-Step Learning Model.md",
-    "sources/articles/I had an Existential Crisis! (+7 Ways to Positively Overcome It).md"
+    "sources/a new resource type note.md"
   ]
 }
