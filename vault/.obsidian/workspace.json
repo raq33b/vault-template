@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae7744e974abd305",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "74e11bf59d11cd95",
             "type": "leaf",
             "state": {
@@ -47,14 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
+                "file": "archive/archive.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38dff69a98df7abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/sources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sources/sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sources/sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sources/sources.md"
+              }
             }
           },
           {
@@ -200,17 +210,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ae7744e974abd305",
+  "active": "38dff69a98df7abf",
   "lastOpenFiles": [
-    "inbox/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md",
+    "Sample SOPs.md",
+    "areas/Thinking.md",
+    "areas/Metrics.md",
+    "areas/Sales.md",
+    "areas/Sports Science.md",
     "areas/Tableau.md",
-    "areas/Finances.md",
-    "bin/templates/new generic note.md",
-    "bin/templates/new note.md",
-    "2023 my year.canvas",
-    "sources/videos/videos.md",
-    "sources/tweets/Tweet from Tiago Forte (2022-11-05 19-53-57).md",
-    "bin/templates/new book note.md",
-    "sources/videos/Youtube - Can you Handle 5 Crores ft Deepak Shenoy   CRED Jagruk Talks S2E02.md"
+    "projects/projects.md",
+    "archive/archive.md",
+    "inbox/inbox.md",
+    "Markdown Cheat Sheet  Markdown Guide.md"
   ]
 }
