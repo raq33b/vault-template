@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/sources.md",
+                "file": "inbox/Notice 2023-01-10 00-52-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/sources.md",
+                "file": "inbox/Notice 2023-01-10 00-52-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sources/sources.md",
+                "file": "inbox/Notice 2023-01-10 00-52-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sources/sources.md"
+                "file": "inbox/Notice 2023-01-10 00-52-24.md"
               }
             }
           },
@@ -185,14 +185,21 @@
               "type": "example-view",
               "state": {}
             }
+          },
+          {
+            "id": "1d6ea4a64da7ef9b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +217,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38dff69a98df7abf",
+  "active": "1004da06164859e3",
   "lastOpenFiles": [
+    "sources/sources.md",
     "Sample SOPs.md",
     "areas/Thinking.md",
     "areas/Metrics.md",
@@ -220,7 +228,6 @@
     "areas/Tableau.md",
     "projects/projects.md",
     "archive/archive.md",
-    "inbox/inbox.md",
-    "Markdown Cheat Sheet  Markdown Guide.md"
+    "inbox/inbox.md"
   ]
 }
