@@ -39,3 +39,7 @@ I am also excited about the opportunity to study at XYZ University because of it
 Thank you for considering my application. I am excited about the opportunity to study at XYZ University and to be a part of a community of dedicated and passionate learners. I look forward to the opportunity to contribute to the program and to make the most of my time at XYZ University.
 
 Sincerely, [Your Name]
+
+
+3. University of nottingham - business analytics
+4. 
