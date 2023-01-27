@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Notice 2023-01-10 00-52-24.md",
+                "file": "Sample SOPs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Notice 2023-01-10 00-52-24.md",
+                "file": "Sample SOPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Notice 2023-01-10 00-52-24.md",
+                "file": "Sample SOPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Notice 2023-01-10 00-52-24.md"
+                "file": "Sample SOPs.md"
               }
             }
           },
@@ -219,15 +219,15 @@
   },
   "active": "1004da06164859e3",
   "lastOpenFiles": [
+    "inbox/Notice 2023-01-10 00-52-24.md",
+    "areas/Tableau.md",
     "sources/sources.md",
     "Sample SOPs.md",
     "areas/Thinking.md",
     "areas/Metrics.md",
     "areas/Sales.md",
     "areas/Sports Science.md",
-    "areas/Tableau.md",
     "projects/projects.md",
-    "archive/archive.md",
-    "inbox/inbox.md"
+    "archive/archive.md"
   ]
 }
