@@ -1,0 +1,10 @@
+{
+  "dailyNoteHeading": "",
+  "weeklyNoteHeading": "",
+  "tags": "",
+  "timestampFormat": "HH:mm",
+  "openFileOnWrite": true,
+  "useDailyNote": false,
+  "useWeeklyNote": false,
+  "dailyEntryTemplateLocation": ""
+}

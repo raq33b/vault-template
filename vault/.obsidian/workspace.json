@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/Finances.md",
+                "file": "projects/Product Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edcd5e441a98eabd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Analyst Job Description.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample SOPs.md",
+                "file": "Business Analyst Job Description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample SOPs.md",
+                "file": "Business Analyst Job Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample SOPs.md"
+                "file": "Business Analyst Job Description.md"
               }
             }
           },
@@ -207,7 +220,6 @@
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-dropbox-backups:Backup to Dropbox": false,
       "obsidian-habitica-integration:Open Habitica Pane": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "switcher:Open quick switcher": false,
@@ -217,17 +229,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1004da06164859e3",
+  "active": "edcd5e441a98eabd",
   "lastOpenFiles": [
-    "inbox/Notice 2023-01-10 00-52-24.md",
+    "projects/Product Management.md",
+    "projects/projects.md",
+    "areas/Finances.md",
     "areas/Tableau.md",
+    "inbox/Notice 2023-01-10 00-52-24.md",
     "sources/sources.md",
     "Sample SOPs.md",
     "areas/Thinking.md",
     "areas/Metrics.md",
-    "areas/Sales.md",
-    "areas/Sports Science.md",
-    "projects/projects.md",
-    "archive/archive.md"
+    "areas/Sales.md"
   ]
 }
