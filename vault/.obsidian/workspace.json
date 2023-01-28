@@ -208,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -229,8 +229,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "edcd5e441a98eabd",
+  "active": "1004da06164859e3",
   "lastOpenFiles": [
+    "2023-01-28.md",
+    "Business Analyst Job Description.md",
     "projects/Product Management.md",
     "projects/projects.md",
     "areas/Finances.md",
@@ -238,8 +240,6 @@
     "inbox/Notice 2023-01-10 00-52-24.md",
     "sources/sources.md",
     "Sample SOPs.md",
-    "areas/Thinking.md",
-    "areas/Metrics.md",
-    "areas/Sales.md"
+    "areas/Thinking.md"
   ]
 }

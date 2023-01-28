@@ -4,7 +4,7 @@
   "tags": "",
   "timestampFormat": "HH:mm",
   "openFileOnWrite": true,
-  "useDailyNote": false,
+  "useDailyNote": true,
   "useWeeklyNote": false,
   "dailyEntryTemplateLocation": ""
 }

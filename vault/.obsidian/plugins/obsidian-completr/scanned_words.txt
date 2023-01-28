@@ -104,6 +104,11 @@ taught
 teens
 topics
 taken
+troubleshooting
+transforming
+trends
+transform
+tech
 Product
 Psychology
 Performance
@@ -138,6 +143,8 @@ Practice
 Practical
 Power
 Personal
+Prepares
+Python
 Management
 Mental
 Models
@@ -170,6 +177,13 @@ Model
 Massachusetts
 Matt
 Markdown
+Must
+MS
+Macbook
+Magic
+Mouse
+Monitor
+Medical
 Interview
 It
 If
@@ -191,11 +205,17 @@ Improved
 Iterate
 Institute
 International
+Interprets
+Interpret
+Intelligence
+Insurance
 Questions
 Question
 Quick
 Quickly
 QEe
+Quicksight
+Quality
 category
 created
 challenge
@@ -331,6 +351,11 @@ club
 courses
 commitment
 contribution
+cleansing
+control
+covering
+candidate
+cool
 archive
 about
 areas
@@ -460,6 +485,7 @@ acumen
 abilities
 along
 achieve
+analyzes
 updated
 up
 used
@@ -567,6 +593,8 @@ occur
 ouk
 offered
 opportunity
+operational
+optimized
 restaurants
 ride
 redesign
@@ -663,6 +691,12 @@ rewarding
 recognize
 reputation
 relations
+reports
+recommendations
+reporting
+review
+reorganizing
+readable
 in
 into
 interview
@@ -732,6 +766,9 @@ international
 institution
 interested
 invaluable
+importing
+identifies
+inch
 San
 Should
 Straw
@@ -780,6 +817,8 @@ School
 Sincerely
 Sports
 Science
+Strong
+SQL
 Francisco
 Facebook
 Favorite
@@ -796,6 +835,7 @@ Feynman
 FmnBJl
 Forte
 Finances
+Familiar
 Google
 Good
 Git
@@ -812,6 +852,7 @@ Group
 GB
 Guide
 Geneva
+Gather
 go
 game
 grounded
@@ -850,6 +891,7 @@ graduate
 globalized
 government
 given
+generation
 sharing
 success
 sense
@@ -1002,6 +1044,9 @@ studies
 studying
 steps
 student
+statistical
+schemas
+salary
 market
 me
 measure
@@ -1079,6 +1124,11 @@ meaningful
 mabdulraqeeb
 mmt
 mgit
+mapping
+modeling
+maintain
+monthly
+maintaining
 Executive
 Estimate
 Even
@@ -1109,6 +1159,7 @@ Every
 Enter
 Element
 Extended
+Eg
 questions
 question
 qyEDwB
@@ -1126,6 +1177,8 @@ quotes
 quickadd
 quorafind
 quantum
+queries
+query
 Analytical
 Aunt
 Areas
@@ -1164,6 +1217,7 @@ Analyst
 Admissions
 As
 Analytics
+Assistance
 problem
 product
 proposition
@@ -1283,6 +1337,10 @@ providing
 personally
 professionally
 passionate
+profiling
+prioritize
+periodically
+proficient
 Tell
 The
 This
@@ -1330,6 +1388,7 @@ Tableau
 These
 Thank
 Throughout
+Test
 when
 with
 work
@@ -1378,6 +1437,7 @@ worlds
 width
 workout
 world
+weekly
 you
 youtube
 your
@@ -1491,6 +1551,10 @@ diverse
 deeper
 dynamic
 dedicated
+develops
+databases
+deliverables
+dimensional
 engg
 events
 engages
@@ -1592,6 +1656,14 @@ excel
 excellence
 essential
 extracurricular
+extracting
+enhance
+end
+expectations
+eg
+equipment
+earphone
+environment
 How
 Help
 Here
@@ -1604,6 +1676,8 @@ Hotkey
 Highlights
 Handle
 He
+Have
+HD
 Behavioral
 Being
 Both
@@ -1657,6 +1731,7 @@ Reviewer
 ReadItLater
 Richard
 RLZuGtbIIkQ
+Relocation
 https
 having
 have
@@ -1776,6 +1851,8 @@ fdf
 firstName
 foundation
 fit
+format
+focused
 blog
 but
 be
@@ -1886,6 +1963,8 @@ KPI
 Key
 KPls
 KPIs
+Knowledge
+Keyboard
 What
 Wish
 Will
@@ -1981,6 +2060,7 @@ live
 license
 lastName
 learners
+locating
 Yet
 YYYY
 You
@@ -2020,6 +2100,7 @@ Complete
 Courses
 Cheat
 Committee
+Competitive
 Not
 NCY
 Notes
@@ -2027,6 +2108,7 @@ Note
 Nl
 Nobel
 New
+Never
 DDTHH
 Down
 Disadvantages
@@ -2054,6 +2136,12 @@ Desktop
 DePaul
 Days
 Dear
+Data
+Dashboard
+Design
+Django
+DBMS
+Developing
 jpg
 job
 just
