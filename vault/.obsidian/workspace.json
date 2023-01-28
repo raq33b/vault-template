@@ -11,13 +11,16 @@
             "id": "74e11bf59d11cd95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "areas/Tableau.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "06e61117641b85ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -73,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,6 +133,20 @@
     "type": "split",
     "children": [
       {
+        "id": "05995bb9861d97d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc27478b5f81f6f0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "6a5d134b84e18974",
         "type": "tabs",
         "children": [
@@ -139,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Analyst Job Description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Analyst Job Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business Analyst Job Description.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,21 +238,20 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1004da06164859e3",
+  "active": "06e61117641b85ef",
   "lastOpenFiles": [
-    "2023-01-28.md",
+    "journal/2023-01-28.md",
+    "bin/templates/new daily note.md",
+    "areas/Tableau.md",
     "Business Analyst Job Description.md",
     "projects/Product Management.md",
     "projects/projects.md",
     "areas/Finances.md",
-    "areas/Tableau.md",
     "inbox/Notice 2023-01-10 00-52-24.md",
     "sources/sources.md",
-    "Sample SOPs.md",
-    "areas/Thinking.md"
+    "Sample SOPs.md"
   ]
 }

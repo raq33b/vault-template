@@ -109,6 +109,11 @@ transforming
 trends
 transform
 tech
+toward
+thousand
+transformation
+transition
+transit
 Product
 Psychology
 Performance
@@ -145,6 +150,7 @@ Power
 Personal
 Prepares
 Python
+Paper
 Management
 Mental
 Models
@@ -209,6 +215,7 @@ Interprets
 Interpret
 Intelligence
 Insurance
+IT
 Questions
 Question
 Quick
@@ -356,6 +363,10 @@ control
 covering
 candidate
 cool
+chances
+choice
+consumption
+completes
 archive
 about
 areas
@@ -486,6 +497,8 @@ abilities
 along
 achieve
 analyzes
+approaches
+aligned
 updated
 up
 used
@@ -595,6 +608,11 @@ offered
 opportunity
 operational
 optimized
+overviews
+outlines
+optimal
+organisational
+operations
 restaurants
 ride
 redesign
@@ -697,6 +715,8 @@ reporting
 review
 reorganizing
 readable
+reflect
+rendered
 in
 into
 interview
@@ -769,6 +789,9 @@ invaluable
 importing
 identifies
 inch
+interactive
+ideate
+indeed
 San
 Should
 Straw
@@ -836,6 +859,7 @@ FmnBJl
 Forte
 Finances
 Familiar
+Flow
 Google
 Good
 Git
@@ -1218,6 +1242,7 @@ Admissions
 As
 Analytics
 Assistance
+Analysis
 problem
 product
 proposition
@@ -1341,6 +1366,8 @@ profiling
 prioritize
 periodically
 proficient
+policies
+procedures
 Tell
 The
 This
@@ -1389,6 +1416,7 @@ These
 Thank
 Throughout
 Test
+Try
 when
 with
 work
@@ -1438,6 +1466,11 @@ width
 workout
 world
 weekly
+wireframes
+worth
+workflows
+workflow
+within
 you
 youtube
 your
@@ -1555,6 +1588,11 @@ develops
 databases
 deliverables
 dimensional
+definition
+draw
+describe
+drawing
+diagrams
 engg
 events
 engages
@@ -1664,6 +1702,8 @@ eg
 equipment
 earphone
 environment
+emanated
+experiences
 How
 Help
 Here
@@ -1678,6 +1718,7 @@ Handle
 He
 Have
 HD
+Handbook
 Behavioral
 Being
 Both
@@ -1703,6 +1744,7 @@ By
 Business
 BI
 Basic
+BRD
 UX
 United
 Update
@@ -1732,6 +1774,8 @@ ReadItLater
 Richard
 RLZuGtbIIkQ
 Relocation
+Requirement
+Requirements
 https
 having
 have
@@ -1787,6 +1831,7 @@ hotkey
 himself
 haven
 hone
+holds
 fs
 form
 fallacy
@@ -1853,6 +1898,9 @@ foundation
 fit
 format
 focused
+focuses
+flow
+follows
 blog
 but
 be
@@ -1985,6 +2033,7 @@ Why
 Who
 Workout
 Week
+Wireframing
 very
 visits
 ve
@@ -2006,6 +2055,7 @@ vastly
 videos
 vault
 video
+various
 linguists
 likely
 longer
@@ -2061,6 +2111,7 @@ license
 lastName
 learners
 locating
+language
 Yet
 YYYY
 You
@@ -2101,6 +2152,7 @@ Courses
 Cheat
 Committee
 Competitive
+Cutover
 Not
 NCY
 Notes
@@ -2142,6 +2194,10 @@ Design
 Django
 DBMS
 Developing
+Document
+Diagrams
+DFDs
+DFD
 jpg
 job
 just
@@ -2151,6 +2207,7 @@ junior
 judgment
 jcdIvYTvA
 jSUvtGXNzTQ
+journal
 VQv
 VP
 Validity
